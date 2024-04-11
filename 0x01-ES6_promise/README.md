@@ -1,7 +1,7 @@
 # 0x01. ES6 Promises
 **`Javscript`** **`ES6`**
 
-![meme](./images/meme1.png)
+![meme1](https://github.com/ElMehdi02/alx-backend-javascript/assets/132353765/fb3bcaa3-f1f6-4d27-b5ba-fd1c2f653958)
 
 ## Resources
 **Read or watch:**
